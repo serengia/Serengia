@@ -4,7 +4,7 @@ Hi 👋 My name is James Serengia
 Software Engineer
 -----------------
 
-I am a Fullstack Software Engineer mostly specialized in MERN stack and Ruby on Rails. Occasionally works with Python.
+I am a Fullstack Software Engineer mostly specialized in MERN stack and Ruby on Rails. Occasionally, I work with Python.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [My Portfolio](http://jamesserengia.com)
