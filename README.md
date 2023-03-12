@@ -3,8 +3,9 @@ Hi 👋 My name is James Serengia
 
 Software Engineer
 -----------------
+I am a Senior Software Engineer with 6+ years of experience. After working in the software industry for two years,  I gained a lot of experience with which I founded my own software development company. This experience taught me firsthand how to manage big software projects with diverse specifications. 
 
-I am a Fullstack Software Engineer mostly specialized in MERN stack and Ruby on Rails. I am also proficient in TypeScript, NextJs & React Native. Occasionally, I work with Python.
+I am mostly work with MERN stack and Ruby on Rails. I am also proficient in TypeScript, NextJs & React Native. Occasionally, I work with Python.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 📘  Get a copy of my book => [Here we go](https://www.amazon.com/LIFE-GIVES-YOU-WHAT-SETTLE/dp/B086G6CRP4/ref=pd_rhf_pe_p_img_1)
