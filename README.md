@@ -8,16 +8,16 @@ I am a Senior Software Engineer with 6+ years of experience. After working in th
 In my current job, I am in charge of building production-ready web applications for SMEs. I also manage the entire Software Development Lifecycle (SDLC) from Needs Analysis, Project Planning, Prototyping, Coding, Testing, Deployment, and Maintenance/Continuous Integration.
 
 Through my day-to-day job, I've developed extensive knowledge in the following
-- Front-End: JavaScript, React, Redux, Next Js, HTML5, CSS3, SASS, MaterialUI | Bootstrap | TailwindCSS 
-- Back-End: Node Js, Express, Ruby, Rails, MongoDB, MySQL, Postgres, Socket io
-- Tools: Git, GitHub, Digital Ocean, Cloudinary, Firebase, RSpec, TDD
-- Prototyping: Figma, Adobe XD, Sketch
-- Professional: Remote Pair-Programming and collaboration, code review, mentoring, and effective communication skills across different cultures
-- Coding best practices and principles: DRY, KISS, YAGNI & SOLID principles
+- **Front-End:** JavaScript, React, Redux, Next Js, HTML5, CSS3, SASS, MaterialUI | Bootstrap | TailwindCSS 
+- **Back-End:** Node Js, Express, Ruby, Rails, MongoDB, MySQL, Postgres, Socket io
+- **Tools:** Git, GitHub, Digital Ocean, Cloudinary, Firebase, RSpec, TDD
+- **Prototyping:** Figma, Adobe XD, Sketch
+- **Professional:** Remote Pair-Programming and collaboration, code review, mentoring, and effective communication skills across different cultures
+- **Coding best practices and principles:** DRY, KISS, YAGNI & SOLID principles
 
 My mission is to use my expertise to empower other people's dreams.
 
-I am currently looking for my next job in Software Development. If you'd like to contact me about potential job opportunities, please send me a message or email at jamesserengia@gmail.com
+I am currently looking for my next job in Software Development. If you'd like to contact me about potential job opportunities, please send me a message or email at **jamesserengia@gmail.com**
 
 ## Find out more about me
 
