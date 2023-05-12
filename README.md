@@ -15,7 +15,7 @@ Through my day-to-day job, I've developed extensive knowledge in the following
 - **Professional:** Remote Pair-Programming and collaboration, code review, mentoring, and effective communication skills across different cultures
 - **Coding best practices and principles:** DRY, KISS, YAGNI & SOLID principles
 
-My mission is to use my expertise to empower other people's dreams.
+My mission is to use my expertise to empower dreams.
 
 I am currently looking for my next job in Software Development. If you'd like to contact me about potential job opportunities, please send me a message or email at **jamesserengia@gmail.com**
 
