@@ -3,9 +3,12 @@ Hi 👋 My name is James Serengia
 
 Software Engineer
 -----------------
-I am a Senior Software Engineer with 6+ years of experience. After working in the software industry for three years, I gained a lot of experience with which I founded my own software development company. This experience taught me firsthand how to manage big software projects with diverse specifications.
+I am a Senior Full-stack Software Engineer with 6+ years of experience, specializing in MERN stack with Next Js, yet also proficient in Ruby and Ruby on Rails. After working as a developer for 3 years, I gained enough experience with which I founded my own Software Development Company (sawabox.com). This venture gave me first-hand experience on how to manage big software projects with diverse specifications.
 
-In my current job, I am in charge of building production-ready web applications for SMEs. I also manage the entire Software Development Lifecycle (SDLC) from Needs Analysis, Project Planning, Prototyping, Coding, Testing, Deployment, and Maintenance/Continuous Integration.
+In over half a decade working as a developer, I have build and shipped 100+ web apps and in the process mastered the entire Software Development Lifecycle (SDLC) from Needs Analysis, Project Planning, Prototyping, Coding, Testing, Deployment, and Maintenance/Continuous Integration.
+
+I have also spent 1 year perfecting my remote pair-programming and collaboration skills using tools such as Git and Github at Microverse, an online coding school that takes intermediate software developers and refine them into International standard through an intensive 12 months program. At Microverse I coded every day through working with developers around the world. Apart from sharpening my intercultural communication skills, I learned to work with strict deadlines through daily and weekly projects.
+
 
 Through my day-to-day job, I've developed extensive knowledge in the following
 - **Front-End:** JavaScript, React, Redux, Next Js, HTML5, CSS3, SASS, MaterialUI | Bootstrap | TailwindCSS 
