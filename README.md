@@ -3,11 +3,11 @@ Hi 👋 My name is James Serengia
 
 Software Engineer
 -----------------
-I am a Full-stack Software Engineer with 6+ years of experience, specializing in MERN stack with Next Js, yet also proficient in Ruby and Ruby on Rails. After working as a developer for three years, I gained enough experience with which I founded my own Software Development Company (sawabox.com) that focused on offering software solutions for SMEs. This venture gave me first-hand experience on how to manage big software projects with diverse specifications.
+I am a Full-stack Software Engineer with 6+ years of experience, specializing in MERN stack with Next Js, yet also proficient in Ruby & Ruby on Rails. After working as a developer for three years, I gained substantial experience with which I founded my own Software Development Company (sawabox.com) that focused on offering software solutions for SMEs. This venture gave me first-hand experience in managing large software projects with diverse specifications.
 
-In over half a decade working as a developer, I have build and shipped 100+ web apps and in the process mastered the entire Software Development Lifecycle (SDLC) from Needs Analysis, Project Planning, Prototyping, Coding, Testing, Deployment, and Maintenance/Continuous Integration.
+In over half a decade working as a developer, I have built and shipped 100+ web apps and in the process mastered the entire Software Development Lifecycle (SDLC) from Needs Analysis, Project Planning, Prototyping, Coding, Testing, Deployment, and Maintenance/Continuous Integration.
 
-I have also spent one year perfecting my remote pair-programming and collaboration skills using tools such as Git and Github at Microverse, an online coding school that takes intermediate software developers and refine them into International standard through an intensive 12 months program. At Microverse I coded every day through working with developers around the world. Apart from sharpening my intercultural communication skills, I learned to work with strict deadlines through daily and weekly projects.
+I have also spent one year perfecting my remote pair programming and collaboration skills using tools such as Git and Github at Microverse, an international online coding school that takes intermediate software developers and refine them into world-class standard through an intensive 12 months program. At Microverse, I coded every day while working with developers around the world through remote pair programming. This sharpened my intercultural communication and collaboration skills as I also learned to work with strict deadlines through daily and weekly projects.
 
 **Through my day-to-day job, I've developed extensive knowledge in the following**
 - **Front-End:** JavaScript, React, Redux, Next Js, HTML5, CSS3, SASS, MaterialUI | Bootstrap | TailwindCSS 
