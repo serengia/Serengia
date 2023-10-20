@@ -3,14 +3,13 @@ Hi 👋 My name is James Serengia
 
 Software Engineer
 -----------------
-I am a Senior Full-stack Software Engineer with 6+ years of experience, specializing in MERN stack with Next Js, yet also proficient in Ruby and Ruby on Rails. After working as a developer for 3 years, I gained enough experience with which I founded my own Software Development Company (sawabox.com). This venture gave me first-hand experience on how to manage big software projects with diverse specifications.
+I am a Full-stack Software Engineer with 6+ years of experience, specializing in MERN stack with Next Js, yet also proficient in Ruby and Ruby on Rails. After working as a developer for three years, I gained enough experience with which I founded my own Software Development Company (sawabox.com) that focused on offering software solutions for SMEs. This venture gave me first-hand experience on how to manage big software projects with diverse specifications.
 
 In over half a decade working as a developer, I have build and shipped 100+ web apps and in the process mastered the entire Software Development Lifecycle (SDLC) from Needs Analysis, Project Planning, Prototyping, Coding, Testing, Deployment, and Maintenance/Continuous Integration.
 
-I have also spent 1 year perfecting my remote pair-programming and collaboration skills using tools such as Git and Github at Microverse, an online coding school that takes intermediate software developers and refine them into International standard through an intensive 12 months program. At Microverse I coded every day through working with developers around the world. Apart from sharpening my intercultural communication skills, I learned to work with strict deadlines through daily and weekly projects.
+I have also spent one year perfecting my remote pair-programming and collaboration skills using tools such as Git and Github at Microverse, an online coding school that takes intermediate software developers and refine them into International standard through an intensive 12 months program. At Microverse I coded every day through working with developers around the world. Apart from sharpening my intercultural communication skills, I learned to work with strict deadlines through daily and weekly projects.
 
-
-Through my day-to-day job, I've developed extensive knowledge in the following
+**Through my day-to-day job, I've developed extensive knowledge in the following**
 - **Front-End:** JavaScript, React, Redux, Next Js, HTML5, CSS3, SASS, MaterialUI | Bootstrap | TailwindCSS 
 - **Back-End:** Node Js, Express, Ruby, Rails, MongoDB, MySQL, Postgres, Socket io
 - **Tools:** Git, GitHub, Digital Ocean, Cloudinary, Firebase, RSpec, TDD
