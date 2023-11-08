@@ -7,14 +7,14 @@ Full-stack Software Engineer with 6+ years of experience, specializing in MongoD
 
 In over half a decade working as a developer, I have built and shipped 100+ web apps and in the process mastered the entire Software Development Lifecycle (SDLC) from Needs Analysis, Project Planning, Prototyping, Coding, Testing, Deployment, and Maintenance/Continuous Integration.
 
-I have also spent one year perfecting my remote pair programming and collaboration skills at Microverse, an international online coding school that takes intermediate software developers and refines them into world-class developers through an intensive 12-month program. At Microverse, I coded every day while working with developers around the world through remote pair programming. This sharpened my intercultural communication and collaboration skills as I also learned to work with strict deadlines through daily and weekly projects.
+I have also spent one year perfecting my remote pair programming and collaboration skills at Microverse, an international online coding school that takes intermediate software developers and refines them into world-class developers through an intensive 12-month program. At Microverse, I coded every day while working with developers across 20+ countries through remote pair programming. This sharpened my intercultural communication and collaboration skills as I also learned to work with strict deadlines through daily and weekly projects.
 
 **Through my day-to-day job, I've developed extensive knowledge in the following**
 - **Front-End:** JavaScript, React, Redux, Next Js, HTML5, CSS3, SASS, MaterialUI | Bootstrap | TailwindCSS 
 - **Back-End:** Node Js, Express, Ruby, Rails, MongoDB, MySQL, Postgres, Socket io
 - **Tools:** Git, GitHub, Digital Ocean, Cloudinary, Firebase, RSpec, TDD
 - **Prototyping:** Figma, Adobe XD, Sketch
-- **Professional:** Remote Pair-Programming and collaboration, code review, mentoring, and effective communication skills across different cultures
+- **Professional:**  Remote Pair-Programming, code review, mentoring, and collaborating with remote teams across 20+ countries
 - **Coding best practices and principles:** DRY, KISS, YAGNI & SOLID principles
 
 My mission is to use my expertise to empower dreams.
