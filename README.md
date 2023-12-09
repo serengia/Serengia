@@ -30,16 +30,6 @@ I am currently looking for my next job in Software Development. If you'd like to
 * 🚀  I'm currently working on [Online Business Platform App](https://papwave.com)
 * 🧠  I'm learning Vue js
 * 🤝  I'm open to collaborating on interesting projects
-* ![FemM3-GXwAETmgO](https://github.com/serengia/Serengia/assets/69452516/570cf227-53b0-401c-b72a-6d17977c0b8d)
-* <div>
-  <style>
-    .sere-img{
-      max-width: 200px;
-    }
-  </style>
-  <img src="https://github.com/serengia/Serengia/assets/69452516/570cf227-53b0-401c-b72a-6d17977c0b8d" class="sere-img"/>
-</div>
-
 
 ### Skills
 
