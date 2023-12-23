@@ -12,7 +12,7 @@ I have also spent one year perfecting my remote pair programming and collaborati
 **Through my day-to-day job, I've developed extensive knowledge in the following**
 - **Front-End:** JavaScript, React, Redux, Next Js, HTML5, CSS3, SASS, MaterialUI | Bootstrap | TailwindCSS 
 - **Back-End:** Node Js, Express, Ruby, Rails, MongoDB, MySQL, Postgres, Socket io
-- **Tools:** Git, GitHub, Digital Ocean, Cloudinary, Firebase, RSpec, TDD
+- **Tools:** Git, GitHub, Digital Ocean, AWS, Cloudinary, Firebase, RSpec, TDD
 - **Prototyping:** Figma, Adobe XD, Sketch
 - **Professional:**  Remote Pair-Programming, code review, mentoring, and collaborating with remote teams across 20+ countries
 - **Coding best practices and principles:** DRY, KISS, YAGNI & SOLID principles
