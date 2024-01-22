@@ -3,7 +3,7 @@ Hi 👋 My name is James Serengia
 
 Software Engineer
 -----------------
-Full-stack Software Engineer with 6+ years of experience, specializing in MongoDB, Express, React & Node (MERN stack), with Next Js, yet also proficient in Ruby & Ruby on Rails. After working as a developer for 3 years, I gained essential experience with which I founded my own Software Development Company (sawabox.com), that focused on offering software solutions for SMEs. This venture gave me hands-on experience in managing large software projects with diverse specifications, as well as working with customers and teams.
+Full-stack Software Engineer with 6+ years of experience, specializing in MongoDB, Express, React & Node (MERN stack), with Next Js, yet also proficient in Ruby & Ruby on Rails and C & C++. After working as a developer for 3 years, I gained essential experience with which I founded my own Software Development Company (sawabox.com), that focused on offering software solutions for SMEs. This venture gave me hands-on experience in managing large software projects with diverse specifications, as well as working with customers and teams.
 
 In over half a decade working as a developer, I have built and shipped 100+ web apps and in the process mastered the entire Software Development Lifecycle (SDLC) from Needs Analysis, Project Planning, Prototyping, Coding, Testing, Deployment, and Maintenance/Continuous Integration.
 
